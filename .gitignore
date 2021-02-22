@@ -137,3 +137,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+.vscode/settings.json
+application/data.sqlite
+application/migrations/versions/f70f2836bce6_.py
