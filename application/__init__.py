@@ -1,10 +1,4 @@
 from flask import Flask
-from flask_bootstrap import Bootstrap
-from flask_sqlalchemy import SQLAlchemy
-from flask_migrate import Migrate
-
-db = SQLAlchemy()
-
 
 def create_app():
     """Construct the core application."""
